@@ -1,2 +1,2 @@
-# roman2arab
-Convert roman numerals to arabic numbers 
+# roman_to_arab
+Convert roman numbers to arabic numbers 
